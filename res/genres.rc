@@ -1,0 +1,3 @@
+SPRITE bigfont    "res/genres/gfx/bigfont.png"      32 32 0
+MAP    foreground "res/genres/fmp/foreground.FMP"    0
+;
