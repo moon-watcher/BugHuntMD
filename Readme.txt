@@ -26,7 +26,7 @@
  * @CODE:        	 =>  Mun             | Twitter: @MoonWatcherMD
  * @CODE-ASSISTANT:	 =>  Jack Nolddor    | Twitter: @nolddor, Mail to: nolddor@hotmail.com
  * @MUSIC / SFX: 	 =>  Davidian        | Twitter: @DavidBonus
- * @GRAPHIC / GFX: 	 =>  Lazy Brain Games (Some fixes by Nolddor & MoonWatcherMD)
+ * @GRAPHIC / GFX: 	 =>  Lazy Brain Games (Some improvements by Nolddor & MoonWatcherMD)
  * @PROJECT: 		 =>  #BugHunt
  * @START DATE: 	 =>  24-08-2014
  * @LAST UPDATE: 	 =>  31-01-2015
@@ -58,7 +58,7 @@
  * This people helped us to finish this game in one or another way.
  *
  * @BUG SLAYER & SAVIOUR => KanedaFr             | Twitter: @spritesmind
- * @DEVIDE SUPPORT       => Chilly Willy
+ * @DEVICE SUPPORT       => Chilly Willy
  * @COVER ART            => John Bell            | Twitter: @LazyBrainGames
  * @COVER RETOUCH        => Dani Nevado          | Twitter: @DanySnowyman
  * @MEGAMOUSE LOGO       => Felipe Monge Corbala | Twitter: @vakapp
@@ -70,7 +70,7 @@
  * --------------------------------------------------------------------------------------------------------------------------------
  *  CHANGELOG
  * --------------------------------------------------------------------------------------------------------------------------------
- * 31-01-2015 » First release
+ * 31-01-2015 Â» First release
  * --------------------------------------------------------------------------------------------------------------------------------
  *
  */
